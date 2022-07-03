@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/devops/static/css/main.31f5e252.css",
-    "main.js": "/devops/static/js/main.560a375e.js",
+    "main.js": "/devops/static/js/main.5710a9ad.js",
     "static/js/787.8dcf6e73.chunk.js": "/devops/static/js/787.8dcf6e73.chunk.js",
     "static/media/stroller2.gif": "/devops/static/media/stroller2.94940661890490c34fa2.gif",
     "static/media/news-img1.jpg": "/devops/static/media/news-img1.15afbd39493ea05cce91.jpg",
@@ -24,11 +24,11 @@
     "static/media/ajker-arban-1.png": "/devops/static/media/ajker-arban-1.624339cafbfc80f8b107.png",
     "index.html": "/devops/index.html",
     "main.31f5e252.css.map": "/devops/static/css/main.31f5e252.css.map",
-    "main.560a375e.js.map": "/devops/static/js/main.560a375e.js.map",
+    "main.5710a9ad.js.map": "/devops/static/js/main.5710a9ad.js.map",
     "787.8dcf6e73.chunk.js.map": "/devops/static/js/787.8dcf6e73.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31f5e252.css",
-    "static/js/main.560a375e.js"
+    "static/js/main.5710a9ad.js"
   ]
 }
